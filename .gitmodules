@@ -1,0 +1,4 @@
+[submodule "themes/hugo-theme-m10c"]
+	path = themes/hugo-theme-m10c
+	url = https://github.com/uladzimir-furso/hugo-theme-m10c
+	branch = master
